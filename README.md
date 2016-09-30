@@ -12,3 +12,7 @@ I. add b3 line
 2. b4 add another line
 
 a. b5 line is here
+
+
+ii. merge b5 onto b4 now
+
